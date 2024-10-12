@@ -51,3 +51,5 @@ MAMP (for Mac users)
 
 5- PHPMailer
 The project uses PHPMailer for sending emails. It will be installed via Composer, but make sure to have access to an SMTP server (e.g., Gmail, your hosting provider) and configure my credentials in subscribe.php.
+# Code 
+https://github.com/Monam94/Subscription-System
